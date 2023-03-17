@@ -1,0 +1,25 @@
+git init, git remote add origin https://github.com/Kristijan885/SI_2023_lab1_213123.git;
+
+git add . – dodavanje site fileovi; git commit -m "Initial commit" – kreiranje na poraka "Initial commit";  
+
+git push -u origin master - pushame commits на remote repo; pravime git add . ;
+
+git commit -m "Add java class"; git push -u origin master
+Edno po drugo pravam git branch bug1 ;git branch bug2 ;git branch bug3;
+
+git checkout bug1;  git add . ; git commit -m “Fix wrong loop for reading”
+
+git checkout bug2;  git add . ; git commit -m “Fix wrong condition in filterOddNumbers”
+
+git checkout bug3;  git add . ; git commit -m “Fix method sum even numbers” 
+
+git push --all origin – site granki na remote repoto gi postavuvame
+
+git checkout master I posle git merge bug1, pa git push -u origin
+
+git checkout master I posle git merge bug2, pa git push -u origin
+
+git checkout bug3; git rebase master; git checkout master; git merge bug3
+
+Nema konflikt, ort strategy; Nema konflikt, ort strategy; fast-forward
+

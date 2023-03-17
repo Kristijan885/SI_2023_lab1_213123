@@ -1,0 +1,34 @@
+commit c6b1923c2d33497c193a43f6e99335c3f9633198 (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: Kristijan Panchevski <kpancevski19@gmail.com>
+Date:   Fri Mar 17 19:59:21 2023 +0100
+
+    Fix method sumEvenNumbers
+
+commit 115ae3c5859723f27d6d3cd559bc7f755388f476
+Merge: ef03d4d 587c6b5
+Author: Kristijan Panchevski <kpancevski19@gmail.com>
+Date:   Fri Mar 17 21:09:03 2023 +0100
+
+    Merge branch 'bug2'
+
+commit 587c6b5effa7c041c24394f8bff7e08831f7856d (origin/bug2, bug2)
+Author: Kristijan Panchevski <kpancevski19@gmail.com>
+Date:   Fri Mar 17 19:53:44 2023 +0100
+
+    Fix wrong condition in filterOddNumbers
+
+commit ef03d4d1b0773771b34c1dcee2eefa3d2b7ccb7b (origin/bug1, bug1)
+Author: Kristijan Panchevski <kpancevski19@gmail.com>
+Date:   Fri Mar 17 19:51:11 2023 +0100
+
+    Fix wrong loop for reading
+
+commit 52d62fd4edbec801871cf500d74b2f0a436990ea
+Author: Kristijan Panchevski <kpancevski19@gmail.com>
+Date:   Fri Mar 17 19:38:13 2023 +0100
+
+    Add java class
+
+commit 2b418257efe8fc8030d2e8d1b9eb45c8f9f672df
+Author: Kristijan Panchevski <kpancevski19@gmail.com>
+Date:   Fri Mar 17 19:32:41 2023 +0100
